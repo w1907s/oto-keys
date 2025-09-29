@@ -1,10 +1,11 @@
 {
   "WBX9K8M4P2Q7": {
-    "hdd_id": null,
-    "expire_date": "2026-03-01",
-    "status": "active",
-    "last_used": null,
-    "created": "2025-01-29"
+    "hdd_id": "10f37229545b5d26",
+    "expire_date": "2025-10-29",
+    "status": "used",
+    "last_used": "2025-09-29",
+    "created": "2025-01-29",
+    "first_use": "2025-09-29"
   },
   "WBH3N7R1Z5E8": {
     "hdd_id": null,
