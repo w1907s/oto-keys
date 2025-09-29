@@ -71,11 +71,12 @@
     "created": "2025-01-29"
   },
   "WBA5S3F9I6Q1": {
-    "hdd_id": null,
-    "expire_date": "2026-03-01",
-    "status": "active",
-    "last_used": null,
-    "created": "2025-01-29"
+    "hdd_id": "a4407526c77eed96",
+    "expire_date": "2025-10-29",
+    "status": "used",
+    "last_used": "2025-09-29",
+    "created": "2025-01-29",
+    "first_use": "2025-09-29"
   },
   "WBR8T2U7O4E3": {
     "hdd_id": null,
